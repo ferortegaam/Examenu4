@@ -1,0 +1,61 @@
+
+.custom-bg {
+    background-color: #f0f8ff;
+    min-height: 100vh;
+  }
+ 
+  .custom-container {
+    max-width: 900px;
+    margin: auto;
+    padding-top: 80px;
+  }
+
+  .custom-card {
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-card-body {
+    padding: 2rem;
+  }
+
+  h2, h3, h4, h5 {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .text-primary {
+    color: #007bff;
+  }
+  
+  .text-info {
+    color: #17a2b8;
+  }
+  
+  .card {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem;
+  }
+  
+  .custom-text-spacing {
+    margin-bottom: 20px; 
+  }
+  
+  .card-body {
+    border-radius: 10px;
+    background-color: #ffffff;
+  }
+  
+  .custom-padding {
+    padding: 10px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  
